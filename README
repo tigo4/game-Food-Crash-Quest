@@ -1,0 +1,8 @@
+multi-platform game (Android, iOS, OSX, Linux, Win, HTML5)
+built on top of cocos2dx-js Javascript framework
+
+cocos2d release used: cocos2d-js-v3.1.zip, it's related to android-ndk-r9d-linux-x86.tar
+
+http://www.cocos2d-x.org/download
+https://github.com/cocos2d/cocos2d-js/
+
